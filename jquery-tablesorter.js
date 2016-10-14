@@ -5,7 +5,7 @@
  * https://github.com/zevero/jquery-tablesorter
  * 
  * <table class="jquery-tablesorter">
- *   <tbody>
+ *   <thead>
  *     <tr>
  *       <th data-sort="text/num/class/...">Title</th>
  *       ...
